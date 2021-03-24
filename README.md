@@ -41,6 +41,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 http://g.recordit.co/d8oU3Y0VJ3.gif
 
+<img src="http://g.recordit.co/d8oU3Y0VJ3.gif" width=250><br>
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
